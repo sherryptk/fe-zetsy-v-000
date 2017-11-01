@@ -40,7 +40,8 @@ img{
 }
 
 #copyright{
-  font-size: 10px;
+  font-size: 15px;
+  position: absolute;
   right: 0;
 }
 /* Write all remaining styles here */
