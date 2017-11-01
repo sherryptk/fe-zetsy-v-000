@@ -41,7 +41,9 @@ img{
 
 #copyright{
   font-size: 15px;
-  float: right;
+  /*float: right;*/
   padding: 0 45px 20px;
+  position: relative;
+  right: 0
 }
 /* Write all remaining styles here */
