@@ -38,4 +38,8 @@ img{
   border: 5px rgb(204, 204, 204) solid;
   padding: 1px;
 }
+
+#copyright{
+  margin-right: 0;
+}
 /* Write all remaining styles here */
