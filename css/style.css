@@ -20,6 +20,7 @@ body {
 #title{
   font-family: 'Libre Baskerville', serif;
 	color:rgb(159,169,166);
+  font-weight: 700;
 	font-size: 80px;
 	margin:0 0 5px;
 	padding-bottom: 15px;
